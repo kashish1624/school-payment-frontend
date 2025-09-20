@@ -27,7 +27,7 @@ This is the **frontend** for the School Payment project built with **React.js an
 
 2. Install dependencies:
    ```bash
-   pip install matplotlib pillow pygame
+   npm install
 
 3. Start the frontend:
    ```bash
