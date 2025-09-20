@@ -1,7 +1,7 @@
 
 ---
 
-# **2️⃣ Frontend README.md**
+# **Frontend README.md**
 
 Create `README.md` inside **frontend folder** (`school-payment-frontend`):
 
@@ -19,6 +19,7 @@ This is the **frontend** for the School Payment project built with **React.js an
 git clone https://github.com/kashish1624/school-payment-frontend.git
 
 2. Go into the terminal:
+```
 cd school-payment-frontend
 npm install
 npm start
